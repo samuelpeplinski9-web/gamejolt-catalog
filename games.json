@@ -1,5 +1,117 @@
 [
   {
+    "id": "988054",
+    "url": "https://gamejolt.com/games/Baldi_godot/988054",
+    "title": "Baldi's Basics - Godot 4.4 Port",
+    "description": "A fanmade recreation of the original Baldi's Basics for Godot 4.4, designed to simplify fangame creation.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/988054-crop0_0_1315_487-4jjxv8ae-v4.webp",
+    "tags": [
+      "fangame",
+      "port",
+      "godot",
+      "baldi",
+      "horror"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:25:13.606Z"
+  },
+  {
+    "id": "602328",
+    "url": "https://gamejolt.com/games/baldis-basics-classic-remastered/602328",
+    "title": "Baldi's Basics Classic Remastered",
+    "description": "A survival horror stealth game that parodies cheap 90's edutainment, where players must find all 7 notebooks while avoiding Baldi in a remastered version of the classic.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/602328-crop0_0_4096_1327-enyxuxkk-v4.webp",
+    "tags": [
+      "Survival Horror",
+      "Stealth",
+      "Remaster",
+      "Indie",
+      "Edu-tainment"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:25:13.606Z"
+  },
+  {
+    "id": "342754",
+    "url": "https://gamejolt.com/games/baldis-basics/342754",
+    "title": "Baldi's Basics in Education and Learning",
+    "description": "Learn with Baldi in his fully 3D interactive schoolhouse while trying to avoid Baldi's wrath for wrong answers.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/342754-wthvgkgv-v4.webp",
+    "tags": [
+      "Horror",
+      "Educational",
+      "Action",
+      "Indie"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:25:13.606Z"
+  },
+  {
+    "id": "1013911",
+    "url": "https://gamejolt.com/games/baldi-1_3_2-ps4/1013911",
+    "title": "Baldi's Basics in Education and Learning (PS4 Port)",
+    "description": "A PS4 port of the popular math horror game designed for those with jailbroken consoles.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/1013911-crop0_200_1280_520-fpwykz4c-v4.webp",
+    "tags": [
+      "horror",
+      "baldi",
+      "survival"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:25:13.606Z"
+  },
+  {
+    "id": "354781",
+    "url": "https://gamejolt.com/games/BaldisBasics/354781",
+    "title": "Baldi's Basics in Education and Learning v1.3.3 (Unofficial Pre-Release Patch)",
+    "description": "A fun-time educational game that quickly reveals its creepy side as players collect notebooks while avoiding Baldi and his friends.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/354781-vbe79tck-v4.webp",
+    "tags": [
+      "Educational",
+      "Horror",
+      "Adventure"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:25:13.606Z"
+  },
+  {
+    "id": "374284",
+    "url": "https://gamejolt.com/games/bbin-1-5/374284",
+    "title": "Baldi's Basics in Nightmares 1.5",
+    "description": "Experience a new nightmare with Baldi's crew and different mechanics in this thrilling horror game.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/374284-crop0_83_1280_403-3iahedji-v4.webp",
+    "tags": [
+      "fnaf",
+      "baldi",
+      "strategy",
+      "horror",
+      "fangame"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:25:13.606Z"
+  },
+  {
+    "id": "964535",
+    "url": "https://gamejolt.com/games/baldi_html/964535",
+    "title": "Baldi's Basics Web Port",
+    "description": "An educational game where you avoid Baldi while trying to learn basic math.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/964535-i4cgzewx-v4.webp",
+    "tags": [
+      "educational",
+      "adventure",
+      "horror"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:25:13.606Z"
+  },
+  {
     "id": "998715",
     "url": "https://gamejolt.com/games/CHA-REMAKE-1/998715",
     "title": "Crusty's Horror Attraction Remake",
@@ -159,6 +271,23 @@
     "browserPlayable": true,
     "pricing": "free",
     "indexedAt": "2026-10-04T07:23:53.672Z"
+  },
+  {
+    "id": "642007",
+    "url": "https://gamejolt.com/games/NBBP/642007",
+    "title": "New Baldi's Basics Plus",
+    "description": "New Baldi's Basics Plus is a large decompiled mod based on the Baldi Open Modding Tool Plus.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/642007-ll-d8tmxvtm-v4.webp",
+    "tags": [
+      "action",
+      "horror",
+      "indie",
+      "mod",
+      "baldi"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:25:13.606Z"
   },
   {
     "id": "130150",
