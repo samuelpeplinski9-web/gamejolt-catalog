@@ -34,6 +34,23 @@
     "indexedAt": "2026-10-04T07:26:38.428Z"
   },
   {
+    "id": "727716",
+    "url": "https://gamejolt.com/games/BBCMSplus/727716",
+    "title": "Baldi's Basics Custom Maps Plus",
+    "description": "A mod featuring new characters, items, events, and more for the Baldi's Basics game.",
+    "thumbnail": "https://i.gjcdn.net/public-data/media/avatar-frame/0/5/255/jelly-hug-frame-c8wn6jv8.png",
+    "tags": [
+      "fangame",
+      "horror",
+      "action",
+      "adventure",
+      "other"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:27:09.046Z"
+  },
+  {
     "id": "342754",
     "url": "https://gamejolt.com/games/baldis-basics/342754",
     "title": "Baldi's Basics in Education and Learning",
@@ -114,6 +131,24 @@
     "indexedAt": "2026-10-04T07:26:38.428Z"
   },
   {
+    "id": "787295",
+    "url": "https://gamejolt.com/games/DURACM/787295",
+    "title": "Cancelled Dorian's Basics Games",
+    "description": "This project includes various cancelled and unreleased mods inspired by Baldi's Basics.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/787295-crop0_200_1280_520-ll-rnbc3us5-v4.webp",
+    "tags": [
+      "fnaf",
+      "fangame",
+      "horror",
+      "other",
+      "Baldi",
+      "cancelled"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:27:09.046Z"
+  },
+  {
     "id": "998715",
     "url": "https://gamejolt.com/games/CHA-REMAKE-1/998715",
     "title": "Crusty's Horror Attraction Remake",
@@ -128,6 +163,60 @@
     "browserPlayable": false,
     "pricing": "free",
     "indexedAt": "2026-10-04T07:23:04.416Z"
+  },
+  {
+    "id": "691703",
+    "url": "https://gamejolt.com/games/DHF/691703",
+    "title": "Dorian Helps Freddy Fazbear (A Banickate Helps Nathan Mod)",
+    "description": "A unique game where you play as Pac-Man navigating challenges and enemies in a horror-themed environment with characters from various game universes.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/691703-crop0_326_1280_684-kmuw4i32-v4.webp",
+    "tags": [
+      "fnaf",
+      "fangame",
+      "horror",
+      "Baldi",
+      "other",
+      "survival",
+      "baldi_mod"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:27:09.046Z"
+  },
+  {
+    "id": "686711",
+    "url": "https://gamejolt.com/games/Dorians-basics/686711",
+    "title": "Dorian's Basics The Full Version (A Banickate's Basics: The 6 Maps! Mod)",
+    "description": "Welcome to Dorian's house where players must navigate through various maps to complete the game, playing as different characters in each.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/686711-crop6_0_1994_497-gcqcfnmk-v4.webp",
+    "tags": [
+      "fnaf",
+      "fangame",
+      "horror",
+      "survival",
+      "fnf",
+      "baldi"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:27:09.046Z"
+  },
+  {
+    "id": "722299",
+    "url": "https://gamejolt.com/games/Dorians-basics-DLC/722299",
+    "title": "Dorian's Basics The Full Version DLC: Back to the 70s",
+    "description": "A mod where Unikitty and Puppycorn travel back to the 70s to avoid enemies and collect notebooks.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/722299-crop0_0_1280_207-yagzdgrc-v4.webp",
+    "tags": [
+      "fnaf",
+      "fangame",
+      "horror",
+      "survival",
+      "other"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:27:09.046Z"
   },
   {
     "id": "64073",
@@ -159,6 +248,23 @@
     "browserPlayable": false,
     "pricing": "free",
     "indexedAt": "2026-10-04T07:23:04.416Z"
+  },
+  {
+    "id": "801881",
+    "url": "https://gamejolt.com/games/MTTOLOFS/801881",
+    "title": "Game Jolt Game",
+    "description": "This game features intense cartoon and realistic violence with mature themes.",
+    "thumbnail": "https://s.gjcdn.net/assets/Cz08RL7a.svg",
+    "tags": [
+      "Mature Audiences",
+      "Intense Cartoon Violence",
+      "Intense Realistic Violence",
+      "Blood and Gore",
+      "Language"
+    ],
+    "browserPlayable": true,
+    "pricing": "unknown",
+    "indexedAt": "2026-10-04T07:27:09.046Z"
   },
   {
     "id": "821474",
@@ -302,6 +408,23 @@
     "browserPlayable": true,
     "pricing": "free",
     "indexedAt": "2026-10-04T07:23:04.416Z"
+  },
+  {
+    "id": "814905",
+    "url": "https://gamejolt.com/games/SWBSIRDLC/814905",
+    "title": "Star Wars But Something isn't right Dorian's Takeover DLC (A Star Wars But Something isn't right Joke mod)",
+    "description": "A modded joke game based on the Star Wars universe, featuring quirky characters and humorous alterations.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/814905-crop0_400_1280_720-nizcr7mf-v4.webp",
+    "tags": [
+      "baldi",
+      "decompile",
+      "fnaf",
+      "Starwars",
+      "Maythefourthbewithyou"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:27:09.046Z"
   },
   {
     "id": "1065490",
