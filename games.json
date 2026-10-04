@@ -64,6 +64,103 @@
     "indexedAt": "2026-10-04T07:23:04.416Z"
   },
   {
+    "id": "615913",
+    "url": "https://gamejolt.com/games/thefirstbegining/615913",
+    "title": "Monika's Basics Chapter 1: The Act 1 Begins",
+    "description": "Collect all 7 poems while avoiding Monika in this adventure game.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/615913-crop0_431_900_764-ll-pjgjubw6-v4.webp",
+    "tags": [
+      "other",
+      "adventure",
+      "baldi_mod",
+      "ddlc"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:53.672Z"
+  },
+  {
+    "id": "658140",
+    "url": "https://gamejolt.com/games/asourtimev2/658140",
+    "title": "Monika's Basics Chapter 2: Citric Acidiculacra (Normal and DLC)",
+    "description": "Join Tails in this horror-adventure game to collect poems and evade Zombie Monika and Zombie Lena.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/658140-gqpfihi8-v4.webp",
+    "tags": [
+      "horror",
+      "adventure",
+      "baldi_mod"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:53.672Z"
+  },
+  {
+    "id": "669047",
+    "url": "https://gamejolt.com/games/monikafiregame/669047",
+    "title": "Monika's Basics Chapter 3: The Forest",
+    "description": "Survive the camping trip in the woods while gathering firewoods in this sequel to Monika's Basics.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/669047-crop286_0_1636_500-ll-bb6ucvwy-v4.webp",
+    "tags": [
+      "survival",
+      "adventure"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:53.672Z"
+  },
+  {
+    "id": "844062",
+    "url": "https://gamejolt.com/games/therobotsisreturn/844062",
+    "title": "Monika's Basics Chapter 4: The Robotic Chaos",
+    "description": "Collect all 7 computers and escape from the robot's technology future before the robot Monika catches you.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/844062-pgc4beeb-v4.webp",
+    "tags": [
+      "adventure",
+      "horror",
+      "future",
+      "robots",
+      "survival",
+      "fnaf"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:53.672Z"
+  },
+  {
+    "id": "848091",
+    "url": "https://gamejolt.com/games/theapocalypse/848091",
+    "title": "Monika's Basics Chapter 5: The Biohazard",
+    "description": "Collect all 7 cursed poems and escape an abandoned school before Monika.exe catches you.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/848091-afnmvqsj-v4.webp",
+    "tags": [
+      "adventure",
+      "survival",
+      "horror"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:53.672Z"
+  },
+  {
+    "id": "935235",
+    "url": "https://gamejolt.com/games/the-return-castlevania-halloween/935235",
+    "title": "Monika's Basics Chapter 6: The Return of Castlevania",
+    "description": "Collect all 7 human souls and escape the castle from the evil vampire Monika and her minions.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/935235-crop0_0_1365_506-vantsitt-v4.webp",
+    "tags": [
+      "2d",
+      "adventure",
+      "survival",
+      "horror",
+      "halloween",
+      "darkfantasy",
+      "fantasy"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:53.672Z"
+  },
+  {
     "id": "130150",
     "url": "https://gamejolt.com/games/random-horror-movie/130150",
     "title": "Random Horror Movie",
