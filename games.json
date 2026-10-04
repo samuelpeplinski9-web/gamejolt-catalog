@@ -1,0 +1,100 @@
+[
+  {
+    "id": "998715",
+    "url": "https://gamejolt.com/games/CHA-REMAKE-1/998715",
+    "title": "Crusty's Horror Attraction Remake",
+    "description": "A remake that enhances the original game with improved story, gameplay, and secrets in a horror setting.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/998715-rgvcg5ki-v4.webp",
+    "tags": [
+      "horror",
+      "fangame",
+      "action",
+      "fnaf"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:04.416Z"
+  },
+  {
+    "id": "64073",
+    "url": "https://gamejolt.com/games/five-nights-in-a-horror-atraction/64073",
+    "title": "Five Nights in a Horror Atraction",
+    "description": "Welcome to the Horror House! Prepare to be scared for life with creepy animatronics while you manage the cameras.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/64073-rapktwmc-v4.webp",
+    "tags": [
+      "horror",
+      "survival",
+      "fan-game",
+      "indie"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:04.416Z"
+  },
+  {
+    "id": "43715",
+    "url": "https://gamejolt.com/games/five-nights-of-horror-a-completely-new-horror-experience/43715",
+    "title": "Five Nights of Horror | A Completely NEW Horror Experience!",
+    "description": "Prepare for a total new type of horror experience as you play as a ghost navigating a mysterious house in the woods.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/43715-pdqxsk2d-v4.webp",
+    "tags": [
+      "horror",
+      "adventure",
+      "indie"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:04.416Z"
+  },
+  {
+    "id": "821474",
+    "url": "https://gamejolt.com/games/horrorcrosshavoc/821474",
+    "title": "Horror Cross Havoc",
+    "description": "An indie horror game filled with iconic characters from various horror games, set in a chaotic, FNAF-inspired survival experience.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/821474-crop0_197_1080_467-ll-murkkvka-v4.webp",
+    "tags": [
+      "horror",
+      "survival",
+      "fangame",
+      "action",
+      "fnaf"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:04.416Z"
+  },
+  {
+    "id": "130150",
+    "url": "https://gamejolt.com/games/random-horror-movie/130150",
+    "title": "Random Horror Movie",
+    "description": "A game based on old school horror movies where players find themselves trapped in a randomly generated film, needing to escape.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/130150-krnaksig-v4.webp",
+    "tags": [
+      "action",
+      "horror",
+      "puzzle"
+    ],
+    "browserPlayable": true,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:04.416Z"
+  },
+  {
+    "id": "1065490",
+    "url": "https://gamejolt.com/games/thedevildarlinshorrorshowTDDHS/1065490",
+    "title": "The Devil Darlin's Horror Show",
+    "description": "A heavily modded version of Bendy and the Ink Machine's Chapter 2 with new mechanics, puzzles, and story.",
+    "thumbnail": "https://m.gjcdn.net/game-header/1900/1065490-crop158_0_1550_348-v3zjcixi-v4.webp",
+    "tags": [
+      "horror",
+      "puzzle",
+      "bendy",
+      "fangame",
+      "action",
+      "scifi",
+      "survival"
+    ],
+    "browserPlayable": false,
+    "pricing": "free",
+    "indexedAt": "2026-10-04T07:23:04.416Z"
+  }
+]
